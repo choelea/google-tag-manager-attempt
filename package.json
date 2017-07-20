@@ -10,12 +10,10 @@
   },
   "dependencies": {
     "body-parser": "~1.17.1",
-    "consolidate": "^0.14.5",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
-    "handlebars": "^4.0.10",
-    "hbs": "~4.0.1",
+    "express-handlebars": "^3.0.0",
     "morgan": "~1.8.1",
     "serve-favicon": "^2.4.3"
   }

@@ -17,11 +17,11 @@ $(function(){
 
     /* Smooth scroll and Scroll spy (https://github.com/ChrisWojcik/single-page-nav)    
     ---------------------------------------------------------------------------------*/ 
-    $('.templatemo-nav').singlePageNav({
-        offset: $(".templatemo-nav").height(),
-        filter: ':not(.external)',
-        updateHash: false
-    });
+    // $('.templatemo-nav').singlePageNav({
+    //     offset: $(".templatemo-nav").height(),
+    //     filter: ':not(.external)',
+    //     updateHash: false
+    // });
 
     /* start navigation top js */
     $(window).scroll(function(){
