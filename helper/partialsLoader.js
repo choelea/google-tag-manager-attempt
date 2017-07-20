@@ -18,7 +18,7 @@ const loadParthialByPath = (partialsDir) => {
 
 const loadPartials = () => {
   const partialsDirList = [
-    path.join(__dirname, '../views/layout'),
+    path.join(__dirname, '../views/layouts'),
     path.join(__dirname, '../views/partials'),
   ]
 
